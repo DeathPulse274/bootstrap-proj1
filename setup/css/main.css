@@ -1,0 +1,8 @@
+body{
+    font-family: 'Oxygen', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Tenor Sans', sans-serif;
+}
+.height{
+    min-height: 100vh; /*makes 100% of window*/
+}
